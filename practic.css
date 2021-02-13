@@ -1,0 +1,36 @@
+header{
+      background-color:#000044;
+      color:#AABD33;
+      font-family:arial,impact;
+      font-variant:small-caps;
+      font-size:170%;
+      text-align:center;
+      text-decoration:underline;
+   }
+ nav{
+  font-variant:small-caps;
+  background-color:#110000;
+  color:#FF0000;
+  font-size:130%;
+   }
+a:hover{color:pink;
+}
+li{
+   font-size:150%;
+   color:#EFA200;
+   background-color:#AA001E;
+   font-style:italic;
+}
+
+h2{
+    background-color:#AAAAAA;
+}
+
+
+
+summary{
+font-style:italic;
+}
+footer{
+background-color:#AAADFC;
+}

@@ -1,0 +1,27 @@
+header{
+      text-transform:uppercase;
+      background-color:#c0c0c0;
+      color:#FFFFFF;
+     }
+a{
+   text-align:left;
+   display:inline-block;
+   color:#000000;
+   background-color:#d3d3d3;
+ }
+h1{
+   text-align:center;
+  }
+aside{ 
+   display:none;
+    }
+h2{
+  color:#000080;
+  text-transform:uppercase;
+  }
+.right{
+  background-color:#696969;
+      }
+.tab{
+column-gap:60px;
+    }

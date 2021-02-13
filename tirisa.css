@@ -1,0 +1,11 @@
+.bg-image {
+  
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+ max-width: 1400px;
+  max-height: 500px;
+margin-top:0px;
+size:100%;
+
+}
+
